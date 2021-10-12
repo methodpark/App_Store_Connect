@@ -1,0 +1,17 @@
+include: package:lints/recommended.yaml
+
+analyzer:
+  language:
+    strict-raw-types: true
+  strong-mode:
+    implicit-casts: false
+    implicit-dynamic: false
+
+linter:
+  rules:
+    omit_local_variable_types: false
+    slash_for_doc_comments: false
+    avoid_void_async: true
+    prefer_const_constructors: true
+    prefer_const_constructors_in_immutables: true
+    prefer_const_literals_to_create_immutables: true
