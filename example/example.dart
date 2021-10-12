@@ -1,4 +1,4 @@
-import 'package:app_store_connect/app_store_connect.dart';
+import 'package:app_store_connect_apis/app_store_connect.dart';
 
 Future<void> main(List<String> args) async {
   var appStoreConnect =

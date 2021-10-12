@@ -1,7 +1,7 @@
 import 'dart:convert';
 import 'dart:io';
 
-import 'package:app_store_connect/src/jwt.dart';
+import 'package:app_store_connect_apis/src/jwt.dart';
 import 'package:http/http.dart' as http;
 
 import 'constants.dart';

@@ -16,20 +16,20 @@ Following functionality is supported:
 With Dart:
 
 ```shell
-dart pub add app_store_connect
+dart pub add app_store_connect_apis
 ```
 
 With Flutter:
 
 ```shell
-flutter pub add app_store_connect
+flutter pub add app_store_connect_apis
 ```
 
 This will add a line like this to your package's pubspec.yaml (and run an implicit dart pub get):
 
 ```yml
 dependencies:
-  app_store_connect: ^0.1.0
+  app_store_connect_apis: ^0.1.0
 ```
 
 ## Usage

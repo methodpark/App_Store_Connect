@@ -1,6 +1,6 @@
 import 'dart:convert';
 
-import 'package:app_store_connect/src/models/profile.dart';
+import 'package:app_store_connect_apis/src/models/profile.dart';
 import 'package:test/test.dart';
 
 void main() {

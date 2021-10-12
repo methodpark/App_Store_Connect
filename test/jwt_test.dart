@@ -1,4 +1,4 @@
-import 'package:app_store_connect/src/jwt.dart';
+import 'package:app_store_connect_apis/src/jwt.dart';
 import 'package:test/test.dart';
 
 void main() {
