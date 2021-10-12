@@ -1,0 +1,18 @@
+name: app_store_connect
+description: A package for the Apple App Store Connect API. It can be used to automate steps in your build pipeline.
+version: 0.1.0
+homepage: https://github.com/methodpark/App_Store_Connect
+repository: https://github.com/methodpark/App_Store_Connect
+issue_tracker: https://github.com/methodpark/App_Store_Connect/issues
+
+environment:
+  sdk: ">=2.12.0 <3.0.0"
+
+dependencies:
+  http: ^0.13.3
+  jose: ^0.3.2
+
+dev_dependencies:
+  lints: ^1.0.1
+  test: ^1.17.12
+  dartdoc: ^3.0.0
