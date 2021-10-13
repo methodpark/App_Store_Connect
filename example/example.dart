@@ -9,4 +9,7 @@ Future<void> main(List<String> args) async {
 
   var myProfile = await appStoreConnect.downloadProfile('profileId');
   print(myProfile);
+
+  var myBuilds = await appStoreConnect.getAllBuilds();
+  print(myBuilds);
 }
