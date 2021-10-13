@@ -1,6 +1,7 @@
 # App Store Connect
 
-![Build Status](https://github.com/methodpark/App_Store_Connect/actions/workflows/github-actions.yml/badge.svg)
+[![pub package](https://img.shields.io/pub/v/app_store_connect_apis.svg)](https://pub.dev/packages/app_store_connect_apis)
+[![Build Status](https://github.com/methodpark/App_Store_Connect/actions/workflows/github-actions.yml/badge.svg)](https://github.com/methodpark/App_Store_Connect/actions?query=branch%3Amain)
 
 Dart package for the [Apple App Store Connect API](https://developer.apple.com/documentation/appstoreconnectapi).
 
@@ -52,6 +53,12 @@ Download profile:
 
 ```dart
 Profile profile = await appStoreConnect.downloadProfile('myProfileId');
+```
+
+List all builds:
+
+```dart
+List<Build> allBuilds = await appStoreConnect.getAllBuilds();
 ```
 
 ## Features and bugs
