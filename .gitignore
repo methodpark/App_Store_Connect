@@ -21,3 +21,5 @@ doc/api/
 *.js.map
 
 /tmp
+
+.vscode/launch.json
