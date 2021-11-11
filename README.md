@@ -1,7 +1,8 @@
 # App Store Connect
 
-[![pub package](https://img.shields.io/pub/v/app_store_connect_apis.svg)](https://pub.dev/packages/app_store_connect_apis)
-[![Build Status](https://github.com/methodpark/App_Store_Connect/actions/workflows/github-actions.yml/badge.svg)](https://github.com/methodpark/App_Store_Connect/actions?query=branch%3Amain)
+<a href="https://github.com/methodpark/App_Store_Connect/actions?query=branch%3Amain"><img src="https://github.com/methodpark/App_Store_Connect/actions/workflows/github-actions.yml/badge.svg" alt="build status"></a>
+<a href="https://pub.dev/packages/app_store_connect_apis"><img src="https://img.shields.io/pub/v/app_store_connect_apis.svg" alt="pub package"></a>
+<a href="https://github.com/methodpark/App_Store_Connect/issues"><img src="https://img.shields.io/github/issues-raw/methodpark/App_Store_Connect" alt="open issues" /></a>
 
 Dart package for the [Apple App Store Connect API](https://developer.apple.com/documentation/appstoreconnectapi).
 

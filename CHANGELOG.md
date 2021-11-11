@@ -1,5 +1,10 @@
 # Changelog
 
+## 0.3.0
+
+* Add the UUID to the provisioning profiles
+* Update dependencies
+
 ## 0.2.0
 
 * Add support for listing all builds
